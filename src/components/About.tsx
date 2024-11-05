@@ -61,8 +61,8 @@ export default function About() {
             </h2>
             <p className="text-lg text-gray-600 mb-8">
               {language === 'en' 
-                ? 'With over 15 years of hands-on experience in international business and finance, John has built a strong reputation for connecting U.S. and Ecuadorian markets. His practical expertise and deep understanding of both cultures help businesses navigate cross-border opportunities successfully.'
-                : 'Con más de 15 años de experiencia práctica en negocios internacionales y finanzas, John ha construido una sólida reputación conectando los mercados de EE.UU. y Ecuador. Su experiencia práctica y profundo entendimiento de ambas culturas ayuda a las empresas a navegar exitosamente las oportunidades transfronterizas.'}
+                ? 'With over 25 years of hands-on experience in international investments and finance in stock markets, John has built a solid reputation for connecting the U.S. and Ecuadorian markets. His practical expertise and deep understanding of both cultures help companies successfully navigate cross-border opportunities.'
+                : 'Con más de 25 años de experiencia práctica en inversiones internacionales y finanzas en bolsas de valores, John ha construido una sólida reputación conectando los mercados de EE.UU. y Ecuador. Su experiencia práctica y profundo entendimiento de ambas culturas ayuda a las empresas a navegar exitosamente las oportunidades transfronterizas.'}
             </p>
             
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">

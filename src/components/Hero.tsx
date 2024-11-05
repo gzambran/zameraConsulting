@@ -1,4 +1,3 @@
-import React from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
 import { ArrowRight } from 'lucide-react';
 
@@ -44,7 +43,7 @@ export default function Hero() {
           </div>
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1623461487986-9400110de28e?auto=format&fit=crop&q=80"
+              src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&q=80"
               alt={language === 'en' ? 'Ecuador and USA Flags' : 'Banderas de Ecuador y EE.UU.'}
               className="rounded-lg shadow-2xl object-cover w-full aspect-[4/3]"
             />
