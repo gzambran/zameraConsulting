@@ -1,4 +1,3 @@
-import React from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
 import { Award, Briefcase, Globe2 } from 'lucide-react';
 
